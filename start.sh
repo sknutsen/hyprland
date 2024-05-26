@@ -3,6 +3,7 @@
 nm-applet --indicator &
 
 # bar
-eww open bar &
+# eww open bar &
+waybar &
 
 dunst
